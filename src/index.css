@@ -2,12 +2,13 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;
 }
 
  :root {
   --primary-color: #dadada ;
-  --secondary-color:black; ;
-  --tertiary-color:#d6bfe0 ;
+  --secondary-color:#422606 ;
+  --tertiary-color:#352a1b ;
   --border-color:black;
 } 
 
@@ -15,7 +16,7 @@
 
 
  body {
-  background: url('./assets/images/portfolio-backgroungImage.jpeg')no-repeat center fixed;
+  background: url('./assets/images/portfolio-backgroungImage.jpg')no-repeat center fixed;
   background-size: cover;
   height: 100vh;
   width: 100%;
@@ -36,7 +37,7 @@ header h1 {
   font-weight: bold;
   font-size: 3vw;
   color: var(--border-color);
-  text-shadow: 0 5px 20px rgba(0, 0 , 0, 0.8);
+  /* text-shadow: 0 5px 20px rgba(0, 0 , 0, 0.8); */
   width: 30%;
   margin: 15px 10px 15px 25px;
   text-align: right;
@@ -51,7 +52,7 @@ header h1 {
 .nav-link  {
   cursor: pointer;
   font-weight: bold;
-  color:azure;
+  color:rgb(1, 11, 54);
   font-size:94%;
   text-decoration: none;
 }
@@ -59,7 +60,7 @@ header h1 {
 
 .nav-item {
   font-size: 20px;
- 
+  color:black;
 }
 .navbar :hover {
   background-color: var(--primary-color);
@@ -83,7 +84,7 @@ header h1 {
 }
 .AboutMeContent {
   font-size: 20px;
-  color:rgb(26, 24, 25);
+  color:rgb(17, 3, 97);
 }
 /* .flex-row {
   display: flex;
@@ -93,25 +94,25 @@ header h1 {
 } */
 h2 {
   font-size: 3rem;
-  color:rgb(26, 24, 25);
-  text-shadow: 2px 2px #7a0545(233,355,350);
+    text-shadow: 2px 2px rgb(11, 3, 56);
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
 }
 
 .line{
-  color: #4e4242;
+  color: #b4b4b4;
   border-width: 3px;
 }
 
-/* #portfolio{
-  background: linear-gradient(45deg, #DAE2F8 30%, #D6A4A4 90%) no-repeat;
-} */
+.card {
+  color:rgb(17, 3, 97);
+  background: linear-gradient(180deg, rgba(104, 168, 221, 0.918) 0%, rgba(255, 255, 255, 1) 100%); /* Light blue gradient background */
+}
 
 .heading{
   /* background: -webkit-linear-gradient(#3a444e, #d84e4e); */
-  background: -webkit-linear-gradient(#575a60, #e4a7d5);
+  background: -webkit-linear-gradient(#575a60, #485aacdc);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -130,15 +131,15 @@ h2 {
 } 
 
 .contactForm button {
-  background-color: #eeb7d5;
-  color:rgba(22, 21, 22, 0.932);
+  background-color: #6e6cc736;
+  color:rgb(3, 3, 114);
   padding:10px;
   font-weight: bold;
 }
 
 
 form {
-  width: 150%;
+    width: 150%;
 }
 
 .form-label {
@@ -158,7 +159,7 @@ form {
 
 .resumeLink {
   font-size: 22px;
-  color:#eeb7d5;
+  color:rgb(26, 12, 145);
 }
 .footerLink {
   position: relative;
@@ -173,7 +174,7 @@ form {
   bottom: 0;
   padding:20px;
   background: linear-gradient(0deg, #010f3e 2%, #0e0512 90%) no-repeat;
-  color: #eeb7d5;;
+  color: #6d78d8;
 }
 
 @media screen and (max-width: 980px) {
@@ -227,4 +228,3 @@ textarea{
   width: 300px;
 }
 }
-
