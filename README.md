@@ -85,28 +85,27 @@
 * Click the link for the detailed license information: https://choosealicense.com/licenses/isc/
 
 ## Contributors
-shruthi
+Meera
 
 ## Test
 npm test
 
 ## Questions
-  * GitHub Username : shruthisalimath
-  * Email: shruthi@test.com
-  * GitHub profile : https://github.com/shruthisalimath 
+  * GitHub Username : Meera-Mohanan
+  * GitHub profile : https://github.com/Meera-Mohanan
 
 
 ## Mock Up
 ![mockUp-Portfolio](./src/assets/images/20-react-homework-demo-01.gif)
 
 ## ScreenShot
-![Shruthi-Portfolio](./src/assets/images/screenShot-Porfolio-React.png)
+![Meera-Portfolio](./src/assets/images/Screenshot%202023-08-14%20022903.png)
 
 ## URL
 1. URL of the functional, deployed application.
-    https://shruthisalimath.github.io/Shruthi-Portfolio-React/
+    https://meera-mohanan.github.io/React-Portfolio/
 
 2. URL of the GitHub repository.
-    https://github.com/shruthisalimath/Shruthi-Portfolio-React
+    https://github.com/Meera-Mohanan/React-Portfolio
 
 
