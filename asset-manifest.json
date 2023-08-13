@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.7e46aefb.css",
+    "main.css": "/React-Portfolio/static/css/main.2b01aea2.css",
     "main.js": "/React-Portfolio/static/js/main.06ea55da.js",
     "static/media/Screen_Shot_Weather_Dashboard.png": "/React-Portfolio/static/media/Screen_Shot_Weather_Dashboard.83df8a16413a3cdb6dd8.png",
     "static/media/Screenshot Project2 booktique.png": "/React-Portfolio/static/media/Screenshot Project2 booktique.701ac0b9a1fbeca7d19f.png",
+    "static/media/portfolio-backgroungImage.jpg": "/React-Portfolio/static/media/portfolio-backgroungImage.a39a4b38a5886f2fe9b3.jpg",
     "static/media/resume-Meera.pdf": "/React-Portfolio/static/media/resume-Meera.c8d6baba800819da4f4e.pdf",
     "static/media/profilepic.jpg": "/React-Portfolio/static/media/profilepic.f307af8127a852b8cc8d.jpg",
     "static/media/screen-short_MVC.png": "/React-Portfolio/static/media/screen-short_MVC.bb5620a52c4973a4d6ca.png",
     "static/media/Screenshot Project1.png": "/React-Portfolio/static/media/Screenshot Project1.dcf7a99e95ed2059a765.png",
     "static/media/screenShot-codeQuiz.png": "/React-Portfolio/static/media/screenShot-codeQuiz.54720e92f797ab0dc766.png",
-    "static/media/portfolio-backgroungImage.jpeg": "/React-Portfolio/static/media/portfolio-backgroungImage.1c753907fe9cf8ffd4c4.jpeg",
     "static/media/Screenshot Logogenerator.png": "/React-Portfolio/static/media/Screenshot Logogenerator.61f34dabb3878d4d936c.png",
     "static/media/Password-generator.png": "/React-Portfolio/static/media/Password-generator.5d10a046d1569a733514.png",
     "static/media/Screen-Shot-Work-Day-Scheduler.png": "/React-Portfolio/static/media/Screen-Shot-Work-Day-Scheduler.04b5a00951a00a45e86d.png",
     "static/media/Screenshot-noteTaker.png": "/React-Portfolio/static/media/Screenshot-noteTaker.513c943937c327293c05.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.7e46aefb.css.map": "/React-Portfolio/static/css/main.7e46aefb.css.map",
+    "main.2b01aea2.css.map": "/React-Portfolio/static/css/main.2b01aea2.css.map",
     "main.06ea55da.js.map": "/React-Portfolio/static/js/main.06ea55da.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e46aefb.css",
+    "static/css/main.2b01aea2.css",
     "static/js/main.06ea55da.js"
   ]
 }
