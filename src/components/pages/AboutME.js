@@ -1,6 +1,6 @@
 import React from "react";
-import profilepic from "../../assets/images/profilepic.jpg";
-import { Image, Container, Row, Col } from 'react-bootstrap';
+// import profilepic from "../../assets/images/profilepic.jpg";
+import { Container, Row, Col } from 'react-bootstrap';
 
 const AboutMe = () => (
     <Container>
