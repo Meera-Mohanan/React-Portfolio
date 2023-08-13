@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Meera-Mohanan/React-Portfolio/static/css/main.855fd3af.css",
+    "main.js": "/Meera-Mohanan/React-Portfolio/static/js/main.c4ca4253.js",
+    "static/media/Screen_Shot_Weather_Dashboard.png": "/Meera-Mohanan/React-Portfolio/static/media/Screen_Shot_Weather_Dashboard.83df8a16413a3cdb6dd8.png",
+    "static/media/Screenshot Project2 booktique.png": "/Meera-Mohanan/React-Portfolio/static/media/Screenshot Project2 booktique.701ac0b9a1fbeca7d19f.png",
+    "static/media/screen-short_MVC.png": "/Meera-Mohanan/React-Portfolio/static/media/screen-short_MVC.bb5620a52c4973a4d6ca.png",
+    "static/media/Screenshot Project1.png": "/Meera-Mohanan/React-Portfolio/static/media/Screenshot Project1.dcf7a99e95ed2059a765.png",
+    "static/media/screenShot-codeQuiz.png": "/Meera-Mohanan/React-Portfolio/static/media/screenShot-codeQuiz.54720e92f797ab0dc766.png",
+    "static/media/portfolio-backgroungImage.jpeg": "/Meera-Mohanan/React-Portfolio/static/media/portfolio-backgroungImage.1c753907fe9cf8ffd4c4.jpeg",
+    "static/media/Screenshot Logogenerator.png": "/Meera-Mohanan/React-Portfolio/static/media/Screenshot Logogenerator.61f34dabb3878d4d936c.png",
+    "static/media/Password-generator.png": "/Meera-Mohanan/React-Portfolio/static/media/Password-generator.5d10a046d1569a733514.png",
+    "static/media/Screen-Shot-Work-Day-Scheduler.png": "/Meera-Mohanan/React-Portfolio/static/media/Screen-Shot-Work-Day-Scheduler.04b5a00951a00a45e86d.png",
+    "static/media/profilepic.jpg": "/Meera-Mohanan/React-Portfolio/static/media/profilepic.bf0e5cbb77ece76f1d3d.jpg",
+    "static/media/Screenshot-noteTaker.png": "/Meera-Mohanan/React-Portfolio/static/media/Screenshot-noteTaker.513c943937c327293c05.png",
+    "index.html": "/Meera-Mohanan/React-Portfolio/index.html",
+    "main.855fd3af.css.map": "/Meera-Mohanan/React-Portfolio/static/css/main.855fd3af.css.map",
+    "main.c4ca4253.js.map": "/Meera-Mohanan/React-Portfolio/static/js/main.c4ca4253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.855fd3af.css",
+    "static/js/main.c4ca4253.js"
+  ]
+}
