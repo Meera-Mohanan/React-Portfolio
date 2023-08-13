@@ -1,8 +1,8 @@
 {
-  "name": "shruthi-portfolio-react",
+  "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shruthisalimath.github.io/Shruthi-Portfolio-React",
+  "homepage": "https://meeramohanan.github.io/Meera-Portfolio-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.1.0",

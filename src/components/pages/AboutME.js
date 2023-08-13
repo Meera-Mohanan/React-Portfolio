@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../../assets/images/profilepic.jpg";
+import profilepic from "../../assets/images/profilepic.jpg";
 import { Figure, Container, Row, Col } from 'react-bootstrap';
 
 const AboutMe = () => (
@@ -10,8 +10,8 @@ const AboutMe = () => (
                     <Figure.Image
                         width={250}
                         height={180}
-                        alt="Profile"
-                        src={profilePic}
+                        alt="profile"
+                         src={profilepic}
                     />
                 </Figure>
             </Col>
@@ -21,15 +21,13 @@ const AboutMe = () => (
                 </div>
                 <div className='AboutMeContent'>
                     <p>
-                        My name is Shruthi. I am originally from India. Moved to USA after my marriage and have 2 beautiful girls.
+                    My name is Meera Mohanan. I live in Perth and currently working in Community Development. I always had passion to learn coding.
                     </p>
                     <p>
-                        I am a graduate in computer science from india. I am Bollywood dance teacher in draper.And I also do event decoration.
-                        Dancing is my passion and I love hikking in summer.
-                        I am vegetarian food lover.
+                    I am a post-graduate in business administration. I love to play a Indian music instrument called 'Veena' and I continue my passion to learn Veena by taking online lessons. I love spending time with friends and travelling . 
                     </p>
                     <p>
-                        Currently I am a Bootcamp student of U of U. Learning how to create websites as full stack developer.
+                    Currently I am a Bootcamp student of UWA. Learning how to create websites as full stack developer.
                     </p>
                 </div>
             </Col>

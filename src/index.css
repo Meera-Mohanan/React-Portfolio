@@ -6,7 +6,7 @@
 
  :root {
   --primary-color: #dadada ;
-  --secondary-color:#b060b4 ;
+  --secondary-color:black; ;
   --tertiary-color:#d6bfe0 ;
   --border-color:black;
 } 
@@ -83,7 +83,7 @@ header h1 {
 }
 .AboutMeContent {
   font-size: 20px;
-  color:burlywood;
+  color:rgb(26, 24, 25);
 }
 /* .flex-row {
   display: flex;
@@ -93,14 +93,15 @@ header h1 {
 } */
 h2 {
   font-size: 3rem;
-  text-shadow: 2px 2px rgb(219, 168, 150);
+  color:rgb(26, 24, 25);
+  text-shadow: 2px 2px #7a0545(233,355,350);
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
 }
 
 .line{
-  color: #b4b4b4;
+  color: #4e4242;
   border-width: 3px;
 }
 
@@ -110,7 +111,7 @@ h2 {
 
 .heading{
   /* background: -webkit-linear-gradient(#3a444e, #d84e4e); */
-  background: -webkit-linear-gradient(#575a60, #711a8c);
+  background: -webkit-linear-gradient(#575a60, #e4a7d5);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -129,8 +130,8 @@ h2 {
 } 
 
 .contactForm button {
-  background-color: #0e0512;
-  color:orange;
+  background-color: #eeb7d5;
+  color:rgba(22, 21, 22, 0.932);
   padding:10px;
   font-weight: bold;
 }
@@ -157,7 +158,7 @@ form {
 
 .resumeLink {
   font-size: 22px;
-  color:darkmagenta;
+  color:#eeb7d5;
 }
 .footerLink {
   position: relative;
@@ -172,7 +173,7 @@ form {
   bottom: 0;
   padding:20px;
   background: linear-gradient(0deg, #010f3e 2%, #0e0512 90%) no-repeat;
-  color: #9dc6d8;
+  color: #eeb7d5;;
 }
 
 @media screen and (max-width: 980px) {

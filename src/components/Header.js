@@ -6,7 +6,7 @@ function Header(props) {
     return (
       <header className="myPortfolio">
         <h1>
-            Shruthi's Portfolio
+            Meera's Portfolio
         </h1>
         <Navigation 
             currentPage={currentPage}
