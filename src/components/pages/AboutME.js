@@ -1,11 +1,11 @@
 import React from "react";
-// import profilepic from "../../assets/images/profilepic.jpg";
-import { Container, Row, Col } from 'react-bootstrap';
+import profilepic from "../../assets/images/profilepic.jpg";
+import { Figure, Container, Row, Col } from 'react-bootstrap';
 
 const AboutMe = () => (
     <Container>
         <Row className="AboutMeRow">
-            {/* <Col>
+            <Col>
                 <Figure>
                     <Figure.Image
                         width={250}
@@ -14,7 +14,7 @@ const AboutMe = () => (
                          src={profilepic}
                     />
                 </Figure>
-            </Col> */}
+            </Col>
             <Col xs={7}>
                 <div className='AboutMeTitle'>
                     <h2>About Me</h2>

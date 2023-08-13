@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import projectList from './components/pages/projectData';
-import AboutMe from './components/pages/AboutMe';
+import AboutMe from './components/pages/AboutME';
 import Contact from './components/pages/Contact';
 import Portfolio from './components/Project';
 import Resume from './components/pages/Resume';
