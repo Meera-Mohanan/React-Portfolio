@@ -1,16 +1,19 @@
 import React from 'react';
-import Navigation from '../Navigation';
+import Navigation from './Navigation';
 
-const Header = ({ sections, activeSection, setActiveSection }) => {
-  return (
-    <header>
-      <Navigation
-        sections={sections}
-        activeSection={activeSection}
-        setActiveSection={setActiveSection}
-      />
-    </header>
-  );
-};
+function Header(props) {
+    const { currentPage, handlePageChange } = props
+    return (
+      <header className="myPortfolio">
+        <h1>
+            Shruthi's Portfolio
+        </h1>
+        <Navigation 
+            currentPage={currentPage}
+            handlePageChange={handlePageChange}>
+        </Navigation>
+      </header>
+    );
+  }
 
 export default Header;

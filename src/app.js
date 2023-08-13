@@ -1,30 +1,39 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import React, { useState } from 'react';
+import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import Home from './pages/Home'; // Adjust the import path based on your actual file location
-import AboutMe from './pages/AboutMe'; // Adjust the import path based on your actual file location
-import Contact from './pages/Contact'; // Adjust the import path based on your actual file location
-import Resume from './pages/Resume'; // Adjust the import path based on your actual file location
-import ProjectData from './pages/ProjectData'; // Adjust the import path based on your actual file location
+import projectList from './components/pages/projectData';
+import AboutMe from './components/pages/AboutMe';
+import Contact from './components/pages/Contact';
+import Portfolio from './components/Project';
+import Resume from './components/pages/Resume';
 
-const App = () => {
+function App() {
+  const [currentPage, handlePageChange] = useState('AboutMe');
+
+  const renderPage = () => {
+    switch (currentPage) {
+      case "Portfolio":
+        return <Portfolio data={projectList} />;
+      case "Contact":
+        return <Contact />;
+      case "Resume":
+        return <Resume />;
+      default:
+        return <AboutMe />;
+    }
+  };
   return (
-    <Router>
-      <div className="app">
-        <Header />
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route path="/about" component={AboutMe} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/resume" component={Resume} />
-          <Route path="/projects" component={ProjectData} />
-          {/* Add more routes as needed */}
-        </Switch>
-        <Footer />
+    <div className="MyPortfolio">
+      <Header
+        currentPage={currentPage}
+        handlePageChange={handlePageChange} />
+      <div>
+        {renderPage()}
       </div>
-    </Router>
+      <Footer />
+    </div>
   );
-};
+}
 
 export default App;
