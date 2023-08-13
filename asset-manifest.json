@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2b01aea2.css",
+    "main.css": "/React-Portfolio/static/css/main.6a3447b6.css",
     "main.js": "/React-Portfolio/static/js/main.06ea55da.js",
     "static/media/Screen_Shot_Weather_Dashboard.png": "/React-Portfolio/static/media/Screen_Shot_Weather_Dashboard.83df8a16413a3cdb6dd8.png",
     "static/media/Screenshot Project2 booktique.png": "/React-Portfolio/static/media/Screenshot Project2 booktique.701ac0b9a1fbeca7d19f.png",
@@ -15,11 +15,11 @@
     "static/media/Screen-Shot-Work-Day-Scheduler.png": "/React-Portfolio/static/media/Screen-Shot-Work-Day-Scheduler.04b5a00951a00a45e86d.png",
     "static/media/Screenshot-noteTaker.png": "/React-Portfolio/static/media/Screenshot-noteTaker.513c943937c327293c05.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.2b01aea2.css.map": "/React-Portfolio/static/css/main.2b01aea2.css.map",
+    "main.6a3447b6.css.map": "/React-Portfolio/static/css/main.6a3447b6.css.map",
     "main.06ea55da.js.map": "/React-Portfolio/static/js/main.06ea55da.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b01aea2.css",
+    "static/css/main.6a3447b6.css",
     "static/js/main.06ea55da.js"
   ]
 }
