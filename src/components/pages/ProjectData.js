@@ -8,8 +8,16 @@ import WorkDayScheduler from "../../assets/images/Screen-Shot-Work-Day-Scheduler
 import codeQuiz from "../../assets/images/screenShot-codeQuiz.png";
 import noteTaker from "../../assets/images/Screenshot-noteTaker.png";
 import booktique from "../../assets/images/Screenshot Project2 booktique.png";
-
+import projectsphere from "../../assets/images/Screenshot 2023-08-14 022903.png";
 const projectList = [
+    {
+        title: "ProjectSphere",
+        appUrl: "https://sleepy-oasis-28097-ab964969462c.herokuapp.com/",
+        image: projectsphere,
+        description: "ProjectSphere is a project management application that allows users to create projects and tasks to help track their work.",
+        technologies: "MERN Stack with GraphQL API with a Node.js and Express.js server.",
+        GithubRepo: "https://github.com/Meera-Mohanan/ProjectSphere"
+    },
         {
         title: "Password-Generator",
         appUrl: "https://meera-mohanan.github.io/Password-Generator-JS-Challenge/",
