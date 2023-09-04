@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.6a3447b6.css",
-    "main.js": "/React-Portfolio/static/js/main.06ea55da.js",
+    "main.css": "/React-Portfolio/static/css/main.192799a4.css",
+    "main.js": "/React-Portfolio/static/js/main.f9119e84.js",
     "static/media/Screen_Shot_Weather_Dashboard.png": "/React-Portfolio/static/media/Screen_Shot_Weather_Dashboard.83df8a16413a3cdb6dd8.png",
     "static/media/Screenshot Project2 booktique.png": "/React-Portfolio/static/media/Screenshot Project2 booktique.701ac0b9a1fbeca7d19f.png",
+    "static/media/Screenshot 2023-08-14 022903.png": "/React-Portfolio/static/media/Screenshot 2023-08-14 022903.448dc7083cde8e40cfba.png",
     "static/media/portfolio-backgroungImage.jpg": "/React-Portfolio/static/media/portfolio-backgroungImage.a39a4b38a5886f2fe9b3.jpg",
     "static/media/resume-Meera.pdf": "/React-Portfolio/static/media/resume-Meera.c8d6baba800819da4f4e.pdf",
     "static/media/profilepic.jpg": "/React-Portfolio/static/media/profilepic.f307af8127a852b8cc8d.jpg",
@@ -15,11 +16,11 @@
     "static/media/Screen-Shot-Work-Day-Scheduler.png": "/React-Portfolio/static/media/Screen-Shot-Work-Day-Scheduler.04b5a00951a00a45e86d.png",
     "static/media/Screenshot-noteTaker.png": "/React-Portfolio/static/media/Screenshot-noteTaker.513c943937c327293c05.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.6a3447b6.css.map": "/React-Portfolio/static/css/main.6a3447b6.css.map",
-    "main.06ea55da.js.map": "/React-Portfolio/static/js/main.06ea55da.js.map"
+    "main.192799a4.css.map": "/React-Portfolio/static/css/main.192799a4.css.map",
+    "main.f9119e84.js.map": "/React-Portfolio/static/js/main.f9119e84.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a3447b6.css",
-    "static/js/main.06ea55da.js"
+    "static/css/main.192799a4.css",
+    "static/js/main.f9119e84.js"
   ]
 }
